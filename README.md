@@ -1,4 +1,4 @@
-Hey there! I'm Mudassir Ali, a senior web developer who loves coding and Developing cool stuff on the web. Right now, I'm super into learning MongoDB and Node.js to level up my skills and tackle some exciting projects.
+Hey there i am a Full Stack web developer. we develop full stack web application frontend to backend for companies and small business.
 
 Here's what you'll find on my profile:
 
