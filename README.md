@@ -2,7 +2,7 @@
 **A Full Stack Web Developer 💻**
 
 [![GitHub Follow](https://img.shields.io/github/followers/mudassir733?label=Follow&style=social)](https://github.com/mudassir733)
-- 🌐 I am currently working on the Band Wogan website at Etechviral.
+- 🌐 I am currently working on the Aladin E-commerce website at Etechviral.
 - 👀 I’m looking to collaborate on web development projects and open-source contributions.
 - 📝 I write articles and share tech knowledge on [Medium](https://medium.com/@mudassirali_79816).
 - 💬 Ask me about Full Stack Development, JavaScript, React, Next js, Node.js, Python, and more.
