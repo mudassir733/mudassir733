@@ -2,11 +2,11 @@
 **A Full Stack Web Developer 💻**
 
 [![GitHub Follow](https://img.shields.io/github/followers/mudassir733?label=Follow&style=social)](https://github.com/mudassir733)
-- 🌐 I am currently working on the Aladin E-commerce website at Etechviral.
+- 🌐 I am currently working on the WorkerShield Product at Etechviral.
 - 👀 I’m looking to collaborate on web development projects and open-source contributions.
 - 📝 I write articles and share tech knowledge on [Medium](https://medium.com/@mudassirali_79816).
 - 💬 Ask me about Full Stack Development, JavaScript, React, Next js, Node.js, Python, and more.
-- 📫 How to reach me: [freelance68377@gmail.com]
+- 📫 How to reach me: [mudassiralidev6@gmail.com]
 - ⚡ Fun fact: I love coding, learning new technologies, and solving complex problems!
 
 
@@ -37,3 +37,4 @@ ___
 ![PHP](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-007ACC?style=for-the-badge&logo=bashsc&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
