@@ -19,7 +19,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mudassirali_79816)
 [![StackOverFlow](https://img.shields.io/badge/Stackoverflow-12100E?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23453698/mudassir-ali)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mudassir_Ali662)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](mudassir_dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1064149879737307186)
 
 ___
 ### 🚀 Tech Stack:
