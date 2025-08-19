@@ -2,12 +2,12 @@
 **A Full Stack Web Developer 💻**
 
 [![GitHub Follow](https://img.shields.io/github/followers/mudassir733?label=Follow&style=social)](https://github.com/mudassir733)
-- 🌐 I am currently working on the WorkerShield Product at Etechviral. [https://dashboard.eagleeyeai.ai/]
-- 👀 I’m looking to collaborate on web development projects and open-source contributions.
-- 📝 I write articles and share tech knowledge on [Medium](https://medium.com/@mudassirali_79816).
-- 💬 Ask me about Full Stack Development, JavaScript, React, Next js, Node.js, Python, and more.
-- 📫 How to reach me: [mudassiralidev6@gmail.com]
-- ⚡ Fun fact: I love coding, learning new technologies, and solving complex problems!
+-  I am currently working on the WorkerShield Product at Etechviral. [https://dashboard.eagleeyeai.ai/]
+-  I’m looking to collaborate on web development projects and open-source contributions.
+-  I write articles and share tech knowledge on [Medium](https://medium.com/@mudassirali_79816).
+-  Ask me about Full Stack Development, JavaScript, React, Next js, Node.js, Python, and more.
+-  How to reach me: [mudassiralidev6@gmail.com]
+-  Focused on full stack web development with an emphasis on modern practices such as clean code architecture, scalable design patterns, and efficient debugging techniques.
 
 
   ### 🌐 Connect with me:
