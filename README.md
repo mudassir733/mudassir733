@@ -1,5 +1,5 @@
-# Hi 👋, I'm Mudassir Ali
-**A Full Stack Web Developer 💻**
+# Hi, I'm Mudassir Ali
+**A Full Stack Web Developer**
 
 [![GitHub Follow](https://img.shields.io/github/followers/mudassir733?label=Follow&style=social)](https://github.com/mudassir733)
 -  I am currently working on the WorkerShield Product at Etechviral. [https://dashboard.eagleeyeai.ai/]
@@ -10,7 +10,7 @@
 -  Focused on full stack web development with an emphasis on modern practices such as clean code architecture, scalable design patterns, and efficient debugging techniques.
 
 
-  ### 🌐 Connect with me:
+  ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mudassir_Ali66)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-ali-developer)
@@ -22,7 +22,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1064149879737307186)
 
 ___
-### 🚀 Tech Stack:
+### Tech Stack:
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
