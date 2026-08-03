@@ -1,42 +1,53 @@
-# Hi, I'm Mudassir Ali
-**A Full Stack Web Developer**
+<h1 align="center">Hi 👋, I'm Mudassir Ali</h1>
+<h3 align="center">A Full Stack Web Developer 💻</h3>
 
-[![GitHub Follow](https://img.shields.io/github/followers/mudassir733?label=Follow&style=social)](https://github.com/mudassir733)
--  I am currently working on the DevPings Product at Etechviral. [https://devping-web-app.vercel.app/]
--  I’m looking to collaborate on web development projects and open-source contributions.
--  I write articles and share tech knowledge on [Medium](https://medium.com/@mudassirali_79816).
--  Ask me about Full Stack Development, JavaScript, React, Next js, Node.js, Python, and more.
--  How to reach me: [mudassiralidev6@gmail.com]
--  Focused on full stack web development with an emphasis on modern practices such as clean code architecture, scalable design patterns, and efficient debugging techniques.
+<p align="left"> <a href="https://github.com/mudassir733" target="blank"><img src="https://img.shields.io/github/followers/mudassir733?label=Follow&logo=github&style=for-the-badge" alt="mudassir733" /></a> </p>
+
+- 🔭 I’m currently working on **DevPings Product at eTechViral** — [devping-web-app.vercel.app](https://devping-web-app.vercel.app/)
+
+- 🌱 I’m currently exploring **Clean Code Architecture, Scalable Design Patterns & Efficient Debugging Techniques**
+
+- 👯 I’m looking to collaborate on **web development projects & open-source contributions**
+
+- 📝 I write articles on [Medium](https://medium.com/@mudassirali_79816)
+
+- 💬 Ask me about **Full Stack Development, JavaScript, TypeScript, React, Next.js, Node.js, Python**
+
+- 📫 How to reach me **mudassiralidev6@gmail.com**
+
+- ⚡ Fun fact **I can center a div on the first try, but I still can’t center my sleep schedule.**
+
+<h2 dir="auto"><a id="user-content--socials" class="anchor" aria-hidden="true" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Socials</h2>
+
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left">
+<a href="https://x.com/Mudassir_Ali66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mudassir_Ali66" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mudassir-ali-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mudassir-ali-developer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23453698/mudassir-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23453698" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61561286024536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61561286024536" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mudassir_khan547/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudassir_khan547" height="30" width="40" /></a>
+<a href="https://medium.com/@mudassirali_79816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mudassirali_79816" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Mudassir-Ali-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Mudassir-Ali-dev" height="30" width="40" /></a>
+<a href="https://discord.com/users/1064149879737307186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1064149879737307186" height="30" width="40" /></a>
+</p>
 
 
-  ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mudassir_Ali66)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-ali-developer)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011967216300)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mudassir_khan547/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mudassirali_79816)
-[![StackOverFlow](https://img.shields.io/badge/Stackoverflow-12100E?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23453698/mudassir-ali)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mudassir_Ali662)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1064149879737307186)
+<h2 align="left">🚀 Tech Stack</h2>
 
-___
-### Tech Stack:
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-007ACC?style=for-the-badge&logo=nextjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-007ACC?style=for-the-badge&logo=prisma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-007ACC?style=for-the-badge&logo=bashsc&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="pager" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4df.png">🧩</g-emoji> GitHub Stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir733)
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=mudassir733&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ the repositories!
+
+</div>
